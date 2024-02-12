@@ -1,0 +1,1 @@
+In this project, financial data like historical share price and quarterly revenue reporting were done for various sources using Python libraries and webscraping on popuar stocks like the Tesla and Gamestop Stocks. Collected data were used to create dashboards to identify patterns or trends.
